@@ -28,7 +28,3 @@ desktop.ini
 .idea/
 *.swp
 *.swo
-
-# Large data caches (optional, dataset is fetched via URL)
-data/*.csv
-data/*.arff
